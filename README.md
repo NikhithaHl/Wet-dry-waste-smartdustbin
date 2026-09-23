@@ -63,15 +63,6 @@ Servo 170° Servo 10°
 
 The Arduino source code is available in the "Arduino_Code" folder.
 
-📷 Project Images
-
-Complete Project
-
-"Complete Project" (Images/project.jpg)
-
-Circuit
-
-"Circuit" (Images/circuit.jpg)
 
 📊 Output
 
